@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumhisharoctiora.github.io/official-pro-hth-com/sitemap.xml
